@@ -3,10 +3,7 @@ Sou Daniel, atualmente estudo sistemas de informação na Universidade Estadual 
 
 Estudo programação desde os 11 anos de idade, procurando sempre projetos desafiadores, e que me trazem maior aprendizado.
 
-Atualmente possuo maior foco em:
-- Web Development;
-- Web Design;
-- Game Development.
+Me siga para acompanhar a minha jornada!
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
