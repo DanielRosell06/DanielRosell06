@@ -59,7 +59,7 @@ Minha jornada na programação começou cedo, e desde então tenho buscado const
 ## 🌐 Vamos Conectar!
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/daniel-rosell-48bb48305/" target="_blank">
+  <a href="https://www.linkedin.com/in/daniel-aniceto-rosell-48bb48305/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   <a href="https://www.instagram.com/daniel_rosell_06/" target="_blank">
