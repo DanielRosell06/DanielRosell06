@@ -15,6 +15,10 @@
   Olá 👋 Sou Daniel, desenvolvedor apaixonado por tecnologia e desafios. Desde os 11 anos venho mergulhando no universo da programação, sempre em busca de projetos que ampliem meus conhecimentos. Atualmente, estou cursando Sistemas de Informação na Universidade Estadual de Campinas (UNICAMP).
 </p>
 
+<p align="center">
+   Qlique <a href="https://danielrosellportifolio.netlify.app/">aqui</a> para ver meu portifólio.
+</p>
+
 <div align="center">
   <a href="https://github.com/DanielRosell06">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielRosell06&show_icons=true&theme=transparent&hide_border=true&count_private=true&text_color=3498db&title_color=3498db&icon_color=3498db" />
