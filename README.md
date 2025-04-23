@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-   Qlique <a href="https://danielrosellportifolio.netlify.app/">aqui</a> para ver meu portifólio.
+   Clique <a href="https://danielrosellportifolio.netlify.app/">aqui</a> para ver meu portifólio.
 </p>
 
 <div align="center">
