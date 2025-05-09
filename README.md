@@ -7,31 +7,33 @@
   <h3 align="center">Desenvolvedor Full Stack | Estudante de SI na UNICAMP</h3>
   
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3498DB&center=true&vCenter=true&width=440&lines=Desenvolvedor+Full+Stack;Estudante+de+SI+na+UNICAMP;Programador+desde+os+11+anos" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=ff0062&center=true&vCenter=true&width=440&lines=Desenvolvedor+Full+Stack;Estudante+de+SI+na+UNICAMP;Programador+desde+os+11+anos" />
   </p>
 </div>
 
 <p align="center">
-  Olá 👋 Sou Daniel, desenvolvedor apaixonado por tecnologia e desafios. Desde os 11 anos venho mergulhando no universo da programação, sempre em busca de projetos que ampliem meus conhecimentos. Atualmente, estou cursando Sistemas de Informação na Universidade Estadual de Campinas (UNICAMP).
+  Olá Sou Daniel, desenvolvedor apaixonado por tecnologia e desafios. Desde os 11 anos venho mergulhando no universo da programação, sempre em busca de projetos que ampliem meus conhecimentos. Atualmente, estou cursando Sistemas de Informação na Universidade Estadual de Campinas (UNICAMP).
 </p>
 
 <p align="center">
-   Clique <a href="https://danielrosellportifolio.netlify.app/">aqui</a> para ver meu portifólio.
+   Clique <a href="https://danielrosellportifolio.netlify.app/" style="color: #ff0062; text-decoration: underline">aqui</a> para ver meu portifólio.
 </p>
 
 <div align="center">
   <a href="https://github.com/DanielRosell06">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielRosell06&show_icons=true&theme=transparent&hide_border=true&count_private=true&text_color=3498db&title_color=3498db&icon_color=3498db" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRosell06&layout=compact&theme=transparent&hide_border=true&text_color=3498db&title_color=3498db" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielRosell06&show_icons=true&theme=transparent&hide_border=true&count_private=true&text_color=ff0062&title_color=ff0062&icon_color=ff0062" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRosell06&layout=compact&theme=transparent&hide_border=true&text_color=ff0062&title_color=ff0062" />
   </a>
 </div>
 
-<hr style="border: 0; height: 1px; background: linear-gradient(to right, transparent, #3498db, transparent);">
 
-<h2 align="center">🛠️ Tecnologias & Ferramentas</h2>
+
+<hr style="border: 0; height: 1px; background: linear-gradient(to right, transparent, #ff0062, transparent);">
+
+<h2 align="center">Tecnologias & Ferramentas</h2>
 
 <div align="center">
-  <h4>Linguagens de Programação</h4>
+  <h4 align="center"><font color="#ff0062">Linguagens de Programação</font></h4>
   <p>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -74,15 +76,13 @@
 
 <hr style="border: 0; height: 1px; background: linear-gradient(to right, transparent, #3498db, transparent);">
 
-<h2 align="center">🔍 Minha Jornada de Contribuição</h2>
+<h2 align="center">Minha Jornada de Contribuição</h2>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielRosell06&theme=transparent&hide_border=true&stroke=3498db&ring=3498db&fire=3498db&currStreakNum=3498db&sideNums=3498db&currStreakLabel=3498db&sideLabels=3498db&dates=3498db" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DanielRosell06&theme=react-dark&hide_border=true&color=ff0062&line=ff0062&point=ff0062" />
 </div>
 
-<hr style="border: 0; height: 1px; background: linear-gradient(to right, transparent, #3498db, transparent);">
-
-<h2 align="center">📫 Vamos Conectar</h2>
+<h2 align="center">Vamos Conectar</h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/daniel-aniceto-rosell-48bb48305?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/" target="_blank">
