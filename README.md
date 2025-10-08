@@ -12,7 +12,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/🎯_Foco-Full_Stack_Development-3B82F6?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🎓_Universidade-UNICAMP-10B981?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/📍_Localização-São_Carlos,_SP-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📍_Localização-São_Paulo,_SP-8B5CF6?style=for-the-badge" />
 </p>
 
 <br>
