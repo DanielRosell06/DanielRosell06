@@ -55,7 +55,7 @@ Atualmente, estou cursando **Sistemas de Informação** na **Universidade Estadu
       <br><br><strong>🎨 Frontend</strong>
     </td>
     <td align="center" width="200">
-      <img src="https://skillicons.dev/icons?i=flask,fastapi,express,dotnet,mysql,postgresql,prisma&perline=4&theme=dark" alt="Flask, FastAPI, Express.js, .NET, MySQL, PostgreSQL, Prisma" title="Flask, FastAPI, Express.js, .NET, MySQL, PostgreSQL, Prisma" />
+      <img src="https://skillicons.dev/icons?i=flask,fastapi,express,dotnet,mysql,postgresql,prisma,php&perline=4&theme=dark" alt="Flask, FastAPI, Express.js, .NET, MySQL, PostgreSQL, Prisma, Php" title="Flask, FastAPI, Express.js, .NET, MySQL, PostgreSQL, Prisma, Php" />
       <br><br><strong>⚙️ Backend & Database</strong>
     </td>
     <td align="center" width="200">
