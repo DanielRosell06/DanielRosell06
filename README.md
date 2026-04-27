@@ -14,7 +14,7 @@
 
 ## Sobre
 
-Desenvolvedor focado em **backend escalável com ASP.NET** e **algoritmos complexos em C**.
+Desenvolvedor focado em **backend escalável com ASP.NET** e **algoritmos complexos em C**. Atualmente estagiando em **Desenvolvimento Backend com Spring Boot**.
 
 ### Áreas de Especialização
 
@@ -26,7 +26,7 @@ Desenvolvedor focado em **backend escalável com ASP.NET** e **algoritmos comple
 **Low-Level Programming**
 - Renderizador 3D desenvolvido do zero
 - Gerador de Perlin Noise
-- Otimização de algoritmos
+- Implementação de algoritmos de inteligencia artificial
 
 **Frontend Development**
 - Aplicações web com React
@@ -48,6 +48,7 @@ Desenvolvedor focado em **backend escalável com ASP.NET** e **algoritmos comple
 **Projetos Técnicos**
 - Renderizador 3D em C puro
 - Gerador de Perlin Noise para procedural generation
+- Solucionador do jogo Word Latter com algoritmo A*
 - APIs RESTful escaláveis com ASP.NET Core
 - Sistemas com arquitetura limpa e padrões de design
 
@@ -58,8 +59,9 @@ Desenvolvedor focado em **backend escalável com ASP.NET** e **algoritmos comple
 - Modelagem e design de banco de dados
 
 **Atualmente**
+- Desenvolvendo sistemas de grande escala para uso público
 - Aprofundando em arquitetura de microsserviços
-- Estudando design patterns avançados
+- Estudando modelos de CI/CD
 - Explorando computação gráfica e matemática aplicada
 
 ### Links
